@@ -1,5 +1,6 @@
 # Miembros
 
+* Nock Fury
 * Capitán America
 * Black panther
 * Black Widow
